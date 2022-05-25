@@ -8,7 +8,7 @@ My first largeish project in C
   The game is made of a 2D grid where each cell is either "dead" or "alive" and every cycle each cell either lives or dies depending on the amount
   of cells directly around it.  
   
-  for a full explenation :
+  For a full explenation :
   [Conway's wiki page](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
   
  
